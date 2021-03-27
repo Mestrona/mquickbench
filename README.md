@@ -9,3 +9,5 @@ For Ubuntu / Debian systems using sysbench, awk, sed, grep, dd
 * Check the contents of the script
 * Download and execute
 * Or pipe to a root shell (after you checked the contents)
+
+      curl -s https://raw.githubusercontent.com/Mestrona/mquickbench/main/mquickbench.sh | sudo bash -
