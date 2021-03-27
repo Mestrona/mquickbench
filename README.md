@@ -1,6 +1,6 @@
 # QuickBench
 
-Quick benchmark script, procedure mostly derived from webhosterwissen.de
+Quick benchmark script, procedure mostly derived from [webhosterwissen.de](https://www.webhosterwissen.de/know-how/server/server-benchmark/)
 
 For Ubuntu / Debian systems using sysbench, awk, sed, grep, dd
 
