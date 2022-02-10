@@ -6,7 +6,7 @@ export LANG=C
 apt-get update > /dev/null
 apt-get install -y sysbench > /dev/null
 
-gb=10  # how much diskspace is needed (in GiB) - set this to 1 if you do not have enough space
+gb=1  # how much diskspace is needed (in GiB) - we set this to 1 by default now to be able to run on smaller VMs
 
 echo -n "# Hostname "
 hostname -f 
